@@ -1,0 +1,33 @@
+# =====================================================================
+# .gitignore — retraction-retrodiction
+# =====================================================================
+
+# Gate 1: real polite-pool / NCBI identity is never committed.
+# Schema + fill-in template live in config/contact.example.yaml.
+config/contact.yaml
+
+# Large data artifacts do not belong in git (keep the clone light).
+# Rule: no CSV over ~10 MB. The Retraction Watch bulk CSV is ~65 MB and is
+# re-fetchable in seconds — route documented in recon/README.md.
+retraction_watch.csv
+recon/retraction_watch.csv
+data/
+recon/logs/
+logs/
+
+# NOTE: charter/snapshot_pins.yaml is deliberately NOT ignored — the lock-day
+# `scripts/pin_snapshots.py --pin` output is committed as part of the lock.
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

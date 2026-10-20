@@ -1,0 +1,270 @@
+{
+  "retracted": [
+    {
+      "openalex": "https://openalex.org/W3046275966",
+      "doi": "10.1016/s0140-6736(20)30367-6",
+      "pmid": "32738937",
+      "pmcid": null,
+      "year": 2020,
+      "date": "2020-07-30",
+      "refs": 347,
+      "is_retracted": true,
+      "title": "Dementia prevention, intervention, and care: 2020 report of the Lancet Commission"
+    },
+    {
+      "openalex": "https://openalex.org/W2158048826",
+      "doi": "10.1038/nature00870",
+      "pmid": "12077603",
+      "pmcid": null,
+      "year": 2002,
+      "date": "2002-06-20",
+      "refs": 52,
+      "is_retracted": true,
+      "title": "RETRACTED ARTICLE: Pluripotency of mesenchymal stem cells derived from adult marrow"
+    },
+    {
+      "openalex": "https://openalex.org/W3010930696",
+      "doi": "10.1016/j.ijantimicag.2020.105949",
+      "pmid": "32205204",
+      "pmcid": null,
+      "year": 2020,
+      "date": "2020-03-20",
+      "refs": 33,
+      "is_retracted": true,
+      "title": "RETRACTED: Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clini"
+    },
+    {
+      "openalex": "https://openalex.org/W3120387768",
+      "doi": "10.1016/s0140-6736(20)32656-8",
+      "pmid": "33428867",
+      "pmcid": null,
+      "year": 2021,
+      "date": "2021-01-01",
+      "refs": 43,
+      "is_retracted": true,
+      "title": "RETRACTED: 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study"
+    },
+    {
+      "openalex": "https://openalex.org/W2166000498",
+      "doi": "10.1056/nejmoa1200303",
+      "pmid": "23432189",
+      "pmcid": null,
+      "year": 2013,
+      "date": "2013-02-25",
+      "refs": 37,
+      "is_retracted": true,
+      "title": "RETRACTED: Primary Prevention of Cardiovascular Disease with a Mediterranean Diet"
+    },
+    {
+      "openalex": "https://openalex.org/W2117847125",
+      "doi": "10.1016/s0140-6736(97)11096-0",
+      "pmid": "9500320",
+      "pmcid": null,
+      "year": 1998,
+      "date": "1998-02-01",
+      "refs": 27,
+      "is_retracted": true,
+      "title": "RETRACTED: Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children"
+    },
+    {
+      "openalex": "https://openalex.org/W1966242613",
+      "doi": "10.1111/j.1751-7176.2008.07572.x",
+      "pmid": "18453793",
+      "pmcid": null,
+      "year": 2008,
+      "date": "2008-05-01",
+      "refs": 48,
+      "is_retracted": true,
+      "title": "Retracted: Predictive Validity of a Medication Adherence Measure in an Outpatient Setting"
+    },
+    {
+      "openalex": "https://openalex.org/W2075481535",
+      "doi": "10.1038/nature04533",
+      "pmid": "16541076",
+      "pmcid": null,
+      "year": 2006,
+      "date": "2006-03-15",
+      "refs": 32,
+      "is_retracted": true,
+      "title": "RETRACTED ARTICLE: A specific amyloid-β protein assembly in the brain impairs memory"
+    },
+    {
+      "openalex": "https://openalex.org/W2035844407",
+      "doi": "10.1016/j.ygyno.2008.04.033",
+      "pmid": "18589210",
+      "pmcid": null,
+      "year": 2008,
+      "date": "2008-06-26",
+      "refs": 36,
+      "is_retracted": true,
+      "title": "RETRACTED: MicroRNA signatures of tumor-derived exosomes as diagnostic biomarkers of ovarian cancer"
+    },
+    {
+      "openalex": "https://openalex.org/W2135110328",
+      "doi": "10.1126/science.1097243",
+      "pmid": "15604363",
+      "pmcid": null,
+      "year": 2004,
+      "date": "2004-12-17",
+      "refs": 17,
+      "is_retracted": true,
+      "title": "Visfatin: A Protein Secreted by Visceral Fat That Mimics the Effects of Insulin"
+    },
+    {
+      "openalex": "https://openalex.org/W2144590229",
+      "doi": "10.1155/2014/943162",
+      "pmid": "24711954",
+      "pmcid": null,
+      "year": 2014,
+      "date": "2014-01-01",
+      "refs": 253,
+      "is_retracted": true,
+      "title": "A Comprehensive Review on Metabolic Syndrome"
+    },
+    {
+      "openalex": "https://openalex.org/W2108733083",
+      "doi": "10.1046/j.1365-313x.2003.01676.x",
+      "pmid": "12609035",
+      "pmcid": null,
+      "year": 2003,
+      "date": "2003-02-28",
+      "refs": 40,
+      "is_retracted": true,
+      "title": "Retracted: An enhanced transient expression system in plants based on suppression of gene silencing by the p19 protein o"
+    }
+  ],
+  "ordinary": [
+    {
+      "openalex": "https://openalex.org/W2156098321",
+      "doi": "10.1136/bmj.b2535",
+      "pmid": "19622551",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-07-21",
+      "refs": 57,
+      "is_retracted": false,
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement"
+    },
+    {
+      "openalex": "https://openalex.org/W2108234281",
+      "doi": "10.1093/bioinformatics/btp352",
+      "pmid": "19505943",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-06-08",
+      "refs": 4,
+      "is_retracted": false,
+      "title": "The Sequence Alignment/Map format and SAMtools"
+    },
+    {
+      "openalex": "https://openalex.org/W4294215472",
+      "doi": "10.1371/journal.pmed.1000097",
+      "pmid": "19621072",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-07-20",
+      "refs": 41,
+      "is_retracted": false,
+      "title": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement"
+    },
+    {
+      "openalex": "https://openalex.org/W2103441770",
+      "doi": "10.1093/bioinformatics/btp324",
+      "pmid": "19451168",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-05-18",
+      "refs": 34,
+      "is_retracted": false,
+      "title": "Fast and accurate short read alignment with Burrows–Wheeler transform"
+    },
+    {
+      "openalex": "https://openalex.org/W2108598243",
+      "doi": "10.1109/cvpr.2009.5206848",
+      "pmid": null,
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-06-01",
+      "refs": 33,
+      "is_retracted": false,
+      "title": "ImageNet: A large-scale hierarchical image database"
+    },
+    {
+      "openalex": "https://openalex.org/W2991792334",
+      "doi": null,
+      "pmid": "21603045",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-01-01",
+      "refs": 36,
+      "is_retracted": false,
+      "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement."
+    },
+    {
+      "openalex": "https://openalex.org/W2114104545",
+      "doi": "10.1093/bioinformatics/btp616",
+      "pmid": "19910308",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-11-11",
+      "refs": 11,
+      "is_retracted": false,
+      "title": "<tt>edgeR</tt> : a Bioconductor package for differential expression analysis of digital gene expression data"
+    },
+    {
+      "openalex": "https://openalex.org/W2005501262",
+      "doi": "10.7326/0003-4819-151-4-200908180-00135",
+      "pmid": "19622511",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-08-18",
+      "refs": 42,
+      "is_retracted": false,
+      "title": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement"
+    },
+    {
+      "openalex": "https://openalex.org/W2134967712",
+      "doi": "10.1002/jcc.21334",
+      "pmid": "19499576",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-06-04",
+      "refs": 24,
+      "is_retracted": false,
+      "title": "AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and mult"
+    },
+    {
+      "openalex": "https://openalex.org/W2072500831",
+      "doi": "10.3758/brm.41.4.1149",
+      "pmid": "19897823",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-11-01",
+      "refs": 40,
+      "is_retracted": false,
+      "title": "Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses"
+    },
+    {
+      "openalex": "https://openalex.org/W2059205366",
+      "doi": "10.1107/s0021889808042726",
+      "pmid": null,
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-01-23",
+      "refs": 6,
+      "is_retracted": false,
+      "title": "<i>OLEX2</i>: a complete structure solution, refinement and analysis program"
+    },
+    {
+      "openalex": "https://openalex.org/W2120145199",
+      "doi": "10.1088/0953-8984/21/39/395502",
+      "pmid": "21832390",
+      "pmcid": null,
+      "year": 2009,
+      "date": "2009-09-01",
+      "refs": 184,
+      "is_retracted": false,
+      "title": "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials"
+    }
+  ]
+}

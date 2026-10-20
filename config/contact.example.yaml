@@ -1,0 +1,39 @@
+# =====================================================================
+# config/contact.yaml  —  polite-pool + registration identity  (TEMPLATE)
+# =====================================================================
+# Copy this file to  config/contact.yaml  and fill in your real details.
+# config/contact.yaml is GITIGNORED and must never be committed.
+#
+# The startup guard in recon/probe.py refuses EVERY network call until
+# `contact_email` is a real, email-shaped address that is NOT one of the
+# reserved-example placeholders (RFC 2606: example.com / .org / .net, and
+# the .test / .invalid / .localhost TLDs) and NOT the recon placeholder
+# recon@example.org. This makes it impossible for a harvest to go out
+# under a placeholder identity.
+#
+# One-off override without editing the file (CI / dev):
+#   PowerShell:  $env:RRP_CONTACT_EMAIL = "you@your-inst.edu"
+#   bash:        export RRP_CONTACT_EMAIL="you@your-inst.edu"
+# ---------------------------------------------------------------------
+
+# [Gate 1a] Polite-pool + NCBI contact identity  (REQUIRED before any run)
+contact_email: "REPLACE_WITH_YOUR_REAL_EMAIL@example.com"
+
+# [Gate 1b] NCBI E-utilities (PubMed / PMC).
+#   ncbi_tool     : self-declared application name (no registration needed).
+#   ncbi_api_key  : optional; lifts the E-utilities rate limit 3 -> 10 req/s.
+#                   Create it at your NCBI account -> Settings -> API Key
+#                   Management (see WALKTHROUGH.md Gate 1b). Leave "" if unused.
+ncbi_tool: "retraction-retrodiction"
+ncbi_api_key: ""
+
+# [Gate 1b] Crossref polite pool: sends `contact_email` as the mailto.
+#   Leave blank to inherit contact_email; set only to override.
+crossref_mailto: ""
+
+# [Gate 1b] OpenAlex: the 2026 freemium model replaced the mailto polite pool
+# with an API key (free $0.10/day with no key, $1/day with a free key). All
+# verdict-bearing work uses the CC0 snapshot, not the API, so a key is dev
+# convenience only. Leave "" if unused.
+openalex_api_key: ""
+openalex_mailto: ""
